@@ -1,0 +1,5 @@
+body { background: #f6f8fb; }
+.card { border: 0; box-shadow: 0 2px 10px rgba(0,0,0,.05); }
+.page-title { color: #24364b; }
+.form-label { font-weight: 600; }
+.table thead th { background: #eef3f8; }
